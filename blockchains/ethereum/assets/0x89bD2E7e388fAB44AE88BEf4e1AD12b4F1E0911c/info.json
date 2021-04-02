@@ -1,0 +1,11 @@
+{
+    "name": "Peanut",
+    "website": "https://peanut.trade/",
+    "description": "Fixing AMMs on Uniswap. 📉 Reduces slippage. 📈 Increases liquidity providers’ profit. Trustless token swaps and revenue sharing with reduced risk of impermanent loss and front-running.",
+    "explorer": "https://etherscan.io/token/0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
+    "type": "ERC20",
+    "symbol": "NUX",
+    "decimals": 18,
+    "status": "active",
+    "id": ""
+}
